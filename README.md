@@ -1,4 +1,4 @@
-# Youtube IS_DI_Solid_Example
+# Youtube IS_DI_SOLID_Example
 
 In this example, we examine a paramount concept of object-oriented design called SOLID. Specifically, 
 interface segregation and dependency inversion. SOILD gained exposure in Robert Martin's 2000 essay on "Design Principles and Design Patterns."
